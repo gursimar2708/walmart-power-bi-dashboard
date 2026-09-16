@@ -18,6 +18,14 @@ attention.
 
 ---
 
+## 🎥 Interactive Dashboard Demo
+
+> Click below to watch the Power BI dashboard in action.
+
+[▶️ Watch the Power BI Dashboard Demo](https://drive.google.com/file/d/1vim-Q42ZYkQLpwR1KJAb9LsrJbKThDm8/view?usp=sharing)
+
+---
+
 ## Business Problem
 
 Walmart operates across multiple countries, stores, cities, and
